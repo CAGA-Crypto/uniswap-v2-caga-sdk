@@ -10,6 +10,7 @@ export enum ChainId {
   GÖRLI = 5,
   KOVAN = 42,
   CAGA = 72778,
+  XDAI = 100
 }
 
 export enum TradeType {
